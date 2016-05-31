@@ -14,3 +14,7 @@ They are the four basic functions of persistent storage.
    - how to add custom javascripts and stylesheets to the plugin.
    - how to use the WordPress hooks.
    - how to genereate a PDF file.
+
+## Requirements
+- Wordpress version 4.5.2 or above
+- PHP version 5.3.0 or above

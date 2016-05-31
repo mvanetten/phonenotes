@@ -18,3 +18,6 @@ They are the four basic functions of persistent storage.
 ## Requirements
 - Wordpress version 4.5.2 or above
 - PHP version 5.3.0 or above
+
+## Thirdparty
+Thanks to https://github.com/dompdf/dompdf to make pdf as simple as possible

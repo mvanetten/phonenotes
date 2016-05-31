@@ -1,7 +1,7 @@
 # Phone Notes - A Wordpress Example Plugin
 
-The plugin register a Phone Call you've made. You can add the following information
-to the call. Name of the caller, Phone Nuber, Date and Time of the caller and notes.
+The plugin register a Phone Call you've made. You can add the following information. 
+Name of the caller, a phone number, date and time of the call and some notes.
 
 In this example i'm ussing the CRUD method. CRUD stands for Create, Read, Update and Delete. 
 They are the four basic functions of persistent storage.

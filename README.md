@@ -1,9 +1,16 @@
-# Wordpress Example Plugin using the CRUD method.
+# Phone Notes - A Wordpress Example Plugin
 
-## This plugin shows :
-   - how to create a custom table in the WordPress database
-   - how to Create, Read, Update and Delete a item in the database
+The plugin register a Phone Call you've made. You can add the following information
+to the call. Name of the caller, Phone Nuber, Date and Time of the caller and notes.
+
+In this example i'm ussing the CRUD method. CRUD stands for Create, Read, Update and Delete. 
+They are the four basic functions of persistent storage.
+
+## This plugin shows you the following  :
+   - how to install a plugin.
+   - how to create a custom table in the WordPress database.
+   - how to Create, Read, Update and Delete a item in the database.
+   - how to secure your data.
    - how to add custom javascripts and stylesheets to the plugin.
-   - how to use the WordPress hooks
-   - how to genereate a PDF file
-   - how to smile
+   - how to use the WordPress hooks.
+   - how to genereate a PDF file.

@@ -19,5 +19,5 @@ They are the four basic functions of persistent storage.
 - Wordpress version 4.5.2 or above
 - PHP version 5.3.0 or above
 
-## Thirdparty
+## Third party
 Thanks to https://github.com/dompdf/dompdf to make pdf as simple as possible
